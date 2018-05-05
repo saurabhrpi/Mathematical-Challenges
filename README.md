@@ -16,6 +16,6 @@ Challenges from Probability, Permutation and Combination, Calculus and Algebra
     
   Sample Output  
   
-  1/2
-  1/1
+  1/2  
+  1/1  
   1/1
